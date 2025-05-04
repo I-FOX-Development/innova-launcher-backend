@@ -6,7 +6,7 @@
       "puzzle"
     ],
     "version": "1.0.5",
-    "download_url": " https://github.com/I-FOX-Development/innova-launcher-backend/raw/refs/heads/main/task_amongus.zip",
+    "download_url": "https://github.com/I-FOX-Development/innova-launcher-backend/raw/refs/heads/main/task_amongus.zip",
     "author": "Innova Dev (games)",
     "requires_pygame": true,
     "min_python_version": "3.6"
